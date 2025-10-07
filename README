@@ -1,4 +1,4 @@
-French to Tamil Translation System
+French to Tamil Translation System 
 
 Project Overview
 A machine learning system that translates 5-letter French words to Tamil using multiple approaches including dictionary lookup, neural networks, and LSTM models.
