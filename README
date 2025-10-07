@@ -34,14 +34,7 @@ Create an accurate and efficient translation system specifically for 5-letter Fr
 - One-hot encoding for neural networks
 - Train-validation split (80-20)
 
-##  Results
 
-### Performance Metrics:
-| Model | Accuracy | Training Time | Loss |
-|-------|----------|---------------|------|
-| Dictionary | 1.000 | 0s | 0.000 |
-| Neural Network | ~0.850 | ~2.5s | ~0.450 |
-| LSTM | ~0.870 | ~3.2s | ~0.420 |
 
 ### Key Findings:
 - Dictionary approach provides perfect accuracy for known words
